@@ -1,0 +1,7 @@
+this is a file for learning node server concepts:
+
+So server is a software not a computer. because in computer both hardware and softwares are in computer but the server is only a software which serve or handle requests and responce to those requests.
+
+second api is the interface which is for machine to machine communication. and gui is the interface for the communication between computer user and machine. simple ui is the interface for human and any thing which is physical.
+
+cloud is the 
