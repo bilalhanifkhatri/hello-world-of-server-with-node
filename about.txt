@@ -4,4 +4,4 @@ So server is a software not a computer. because in computer both hardware and so
 
 second api is the interface which is for machine to machine communication. and gui is the interface for the communication between computer user and machine. simple ui is the interface for human and any thing which is physical.
 
-cloud is the 
+cloud is the server over the internet.
